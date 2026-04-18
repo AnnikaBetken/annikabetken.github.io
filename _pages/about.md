@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at Twente University. I mainly work on Time Series Analysis and, more recently,  started working on Transfer Learning.
+I am an assistant professor at Twente University. I mainly work on Time Series Analysis and Transfer Learning.
 
 My research focuses on: 
 
